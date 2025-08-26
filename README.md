@@ -1,3 +1,5 @@
+<img width="1584" height="396" alt="Rubén Moctezuma2" src="https://github.com/user-attachments/assets/0da2500f-4c5e-4014-ba94-a6beaa6425a3" />
+
 # ¡Hola, Mundo, Bienvenidos a mi perfil de Github!
 
 <p>- <i>A comp-sci undergraduate student and a aspiring software developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-    set, placing a special emphasis on writing good quality code. Also regularly write technical content and articles for various popular tech sites.</i></p>
