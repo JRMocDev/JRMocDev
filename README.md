@@ -71,7 +71,7 @@
 
 ## Links & contanct:
 <div align="center">
-  <!-- [![Website](https://img.shields.io/badge/Website-INGCapaDev-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://ingcapadev.com) -->
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-@RubenMoctezuma-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)]  (https://www.linkedin.com/in/jrmocdev/)
-  [![Email](https://img.shields.io/badge/jose.ruben.pedroza.moctezuma@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:jose.ruben.pedroza.moctezuma@gmail.com)
+<!-- [![Website](https://img.shields.io/badge/Website-INGCapaDev-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://ingcapadev.com) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@RubenMoctezuma-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)]  (https://www.linkedin.com/in/jrmocdev/)
+[![Email](https://img.shields.io/badge/jose.ruben.pedroza.moctezuma@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:jose.ruben.pedroza.moctezuma@gmail.com)
 </div>
